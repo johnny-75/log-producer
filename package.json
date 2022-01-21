@@ -5,7 +5,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "file-api": "^0.10.4",
-    "log4js": "^5.1.0",
+    "log4js": "^6.4.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
